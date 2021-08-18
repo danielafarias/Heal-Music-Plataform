@@ -1,72 +1,130 @@
+# HEAL
+
+![GitHub repo size](https://img.shields.io/github/repo-size/danielafarias/Heal-MusicPlatform?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/danielafarias/Heal-MusicPlatform?style=for-the-badge)
+![GitHub forks](https://img.shields.io/chocolatey/dt/Heal-MusicPlatform?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/danielafarias/Heal-MusicPlatform?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/danielafarias/Heal-MusicPlatform?style=for-the-badge)
+
 ![H E A L](https://user-images.githubusercontent.com/79869120/129820693-405dbbe2-c782-4369-9b41-406c492c8eb8.gif)
 
-# Getting Started with Create React App
+> Heal é uma plataforma de músicas, a aplicação consome a Deezer API, e é desenvolvida com Redux, React.js, JS, Styled Components e Axios.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ❤️ Ajustes e melhorias
 
-## Available Scripts
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-In the project directory, you can run:
+- [x] Projeto inicializado
+- [x] Identidade visual
+- [x] Logo
+- [ ] Escopo 1ª view
+- [ ] Escopo 2ª view
+- [ ] Componentes e eventos
+- [ ] Consumo da API com axios
+- [ ] Utilização da Store do Redux
+- [ ] Styled Components
+- [ ] Projeto Finalizado
 
-### `yarn start`
+## 💻 Pré-requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Você instalou a versão mais recente de `<Javascript / Yarn>`
+* Você adicionou as seguintes bibliotecas  `<Redux / Axios / Styled Components>`.
+* Você leu o `<passo_a_passo_de_intalação_do_projeto>`.
 
-### `yarn test`
+## 🚀 Instalando <Heal_MusicPlatform>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para instalar o <Heal_MusicPlatform>, siga estas etapas:
 
-### `yarn build`
+Caso não possua o Yarn, instale o Node.js em seu site oficial:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Node.js](https://nodejs.org/en/download/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+e:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+<npm install --global yarn>
+```
 
-### `yarn eject`
+Clone o projeto:
+```
+<git clone https://github.com/danielafarias/Heal-MusicPlatform.git>
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Em seguida, adicione as bibliotecas e dependências necessárias:
+```
+<cd Heal_MusicPlatform>
+```
+```
+<yarn install>
+```
+```
+<yarn add redux react-redux>
+```
+```
+<yarn add axios>
+```
+```
+<yarn add styled-components>
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎶 Usando <Heal_MusicPlatform>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Para usar <Heal_MusicPlatform>:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+<yarn start>
+```
 
-## Learn More
+Voilà!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[http://localhost:3000](http://localhost:3000)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 📫 Contribuindo para <Heal_MusicPlatform>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Para contribuir com <Heal_MusicPlatform>, siga estas etapas:
 
-### Analyzing the Bundle Size
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <heal_seu_nome>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<sua_mensagem_de_commit>'`
+4. Envie para o branch original: `git push origin <master> / <https://github.com/danielafarias/Heal-MusicPlatform>`
+5. Crie a solicitação de pull.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-### Making a Progressive Web App
+## 🤝 Colaboradores
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Seguintes pessoas que contribuíram para este projeto:
 
-### Advanced Configuration
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/79869120?v=4" width="100px;" alt="Foto da Daniela Farias no GitHub"/><br>
+        <sub>
+          <b>Daniela Farias</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://pbs.twimg.com/profile_images/933374761928978432/TksMocGa_400x400.jpg" width="100px;" alt="Manipulaê"/><br>
+        <sub>
+          <b>Manipulaê</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 Licença
 
-### Deployment
+Esse projeto está sob licença MIT ⚖️. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[⬆ Voltar ao topo](#heal)<br>
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+© README.md template by iuricode
+```

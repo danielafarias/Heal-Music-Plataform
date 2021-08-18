@@ -5,6 +5,7 @@
 ![GitHub forks](https://img.shields.io/chocolatey/dt/Heal-MusicPlatform?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/danielafarias/Heal-MusicPlatform?style=for-the-badge)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/danielafarias/Heal-MusicPlatform?style=for-the-badge)
+![Github Watchers](https://img.shields.io/github/watchers/danielafarias/Heal-MusicPlatform?style=for-the-badge)
 
 ![H E A L](https://user-images.githubusercontent.com/79869120/129820693-405dbbe2-c782-4369-9b41-406c492c8eb8.gif)
 

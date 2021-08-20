@@ -18,6 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Projeto inicializado
 - [x] Identidade visual
 - [x] Logo
+- [x] Protótipo no [Figma](https://www.figma.com/file/N8BQ3O2OldTyDzbC8gx2Qf/HEAL?node-id=0%3A1)
 - [ ] Escopo 1ª view
 - [ ] Escopo 2ª view
 - [ ] Componentes e eventos
@@ -68,6 +69,9 @@ Em seguida, adicione as bibliotecas e dependências necessárias:
 ```
 ```
 <yarn add styled-components>
+```
+```
+<yarn add react-router-dom>
 ```
 
 ## 🎶 Usando <Heal_MusicPlatform>

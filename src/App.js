@@ -5,12 +5,12 @@ import Favorites from './Components/Favorites';
 
 function App() {
   return (
-    <div className="App">
-      <Switch>
-        <Route path='/' exact={true} component={Dashboard}></Route>
-        <Route path='/favorites' component={Favorites}></Route>
-      </Switch>
-    </div>
+      <div className="App">
+        <Switch>
+          <Route path='/' exact={true} component={Dashboard}></Route>
+          <Route path='/favorites' component={Favorites}></Route>
+        </Switch>
+      </div>
   );
 }
 
